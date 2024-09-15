@@ -1,0 +1,23 @@
+/* src/styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.search-options ul {
+  padding: 0;
+  margin: 10px 0;
+}
+
+.search-options li {
+  cursor: pointer;
+  padding: 5px;
+  color: #333;
+}
+
+.search-options li strong {
+  color: #007BFF;
+}
+
+.search-options li:hover {
+  text-decoration: underline;
+}
